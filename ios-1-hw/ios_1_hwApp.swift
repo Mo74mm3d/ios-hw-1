@@ -1,14 +1,14 @@
 //
-//  Homework_1App.swift
-//  Homework 1
+//  ios_1_hwApp.swift
+//  ios-1-hw
 //
-//  Created by Adnan Alfadhli on 08/03/2022.
+//  Created by Mohammed Alqattan on 09/03/2022.
 //
 
 import SwiftUI
 
 @main
-struct Homework_1App: App {
+struct ios_1_hwApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
